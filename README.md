@@ -22,20 +22,17 @@
 21.	Program to print multiplication table of a number using for loop.
 22.	Program to read marks of a student and find their grade according to the mark using else…if ladder.
 23.	An electric power distribution company charges its domestic consumers as follows:
-
-
-
-
 Consumption Units                              Rate of Charge
 0-200                                                    Rs. 0.50 per unit
 201-400                                                Rs. 100 plus Rs. 0.65 per unit excess of 200
 401-600                                                Rs. 230 plus Rs. 0.80 per unit excess of 400
 601 and above                                      Rs. 390 plus Rs. 1.00 per unit excess of 600
 Read the customer number and power consumed and prints the amount to be paid by the customer.
-24.	Program to find sum of series 1! +2! + 3!  …. N! Using functions.
-25.	Program to find factorial of a number using recursion.
-26.	Program to display alphabet A to Z using loops.
-27.	Program to print the pattern
+
+25.	Program to find sum of series 1! +2! + 3!  …. N! Using functions.
+26.	Program to find factorial of a number using recursion.
+27.	Program to display alphabet A to Z using loops.
+28.	Program to print the pattern
 *
 * *
 * * *
