@@ -59,8 +59,4 @@ Read the customer number and power consumed and prints the amount to be paid by 
 47.	Program to count the number of words and number of lines in a file using command line argument.
 48.	Program to count the number of lower case, upper case and special characters in a file
 49.	Create an employee file, read and display the details on console.
-50.	Program to find the mismatch of opening and closing brackets in a file.
-
-    
-50.	Create an employee file, read and display the details on console.
-51.	Program to find the mismatch of opening and closing brackets in a file.
+50.	Program to find the mismatch of opening and closing brackets in a file.    
