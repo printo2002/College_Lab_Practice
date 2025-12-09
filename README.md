@@ -1,4 +1,5 @@
-## C LAB PROGRAMS
+##  TABLE OF CONTENT
+ C lab programs 
 
 
 | SL.NO | PROGRAM | LINK |
