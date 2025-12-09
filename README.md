@@ -11,7 +11,7 @@ You're a senior software engineer with extensive experience in open source proje
 
 | SL.NO | PROGRAM | LINK |
 |------|--------|---------------|
-| 00   |  Documentation      |<a href="https://github.com/Printo02/College_Lab_Practice/blob/C-Language-Lab/PRGM1.C">link</a>|
+| 00   |  `Documentation`      |<a href="https://github.com/Printo02/College_Lab_Practice/blob/C-Language-Lab/PRGM1.C">link</a>|
 | 01   |  Program to find the absolute value of a number using the conditional operator. |<a href="https://github.com/Printo02/College_Lab_Practice/blob/C-Language-Lab/PRGM1.C">link</a>|
 | 02   |  Program to check whether the given number is odd or even.  |<a href="https://github.com/Printo02/College_Lab_Practice/blob/C-Language-Lab/PRGM1.C">link</a>|
 | 03   |  Program to calculate the simple interest. |<a href="https://github.com/Printo02/College_Lab_Practice/blob/C-Language-Lab/PRGM1.C">link</a>|
