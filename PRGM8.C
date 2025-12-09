@@ -30,5 +30,6 @@ void main()
     }
 
     printf("%d is the lowest number.", low);
-    getch();
+    
+getch();
 }

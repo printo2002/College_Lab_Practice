@@ -4,14 +4,14 @@
 #include<conio.h>
 void main()
 {
-int num, absvalue;
-clrscr();
-printf("Enter a number\n");
-scanf("%d",&num);
+  int num, absvalue;
+  clrscr();
+  printf("Enter a number\n");
+  scanf("%d",&num);
 
-absvalue = (num < 0)? -num:num;
+  absvalue = (num < 0)? -num:num;
 
-printf("%d is an absolute value",absvalue);
+  printf("%d is an absolute value",absvalue);
     
 getch();
 }

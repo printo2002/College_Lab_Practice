@@ -8,6 +8,7 @@ void main()
   clrscr();
   printf("Enter a Number\n");
   scanf("%d",&a);
+  
   if(a%2==0)
   {
     printf("%d is an even number",a);
@@ -16,5 +17,6 @@ void main()
   {
     printf("%d is an odd number",a);
   }
-  getch();
+
+getch();
 }

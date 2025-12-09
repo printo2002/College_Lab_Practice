@@ -19,5 +19,5 @@ void main()
 
  printf("After Swapping: a= %d,b= %d",a,b);
 
- getch();
+getch();
 }

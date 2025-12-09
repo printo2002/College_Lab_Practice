@@ -13,5 +13,6 @@ void main()
   perimeter =  2 * PI *r;
   printf("Area of the Circle is: %f\n",area);
   printf("Perimeter of Circle is: %f\n",perimeter);
- getch();
+  
+getch();
 }
