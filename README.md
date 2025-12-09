@@ -1,7 +1,5 @@
 ## C LAB PROGRAMS
 
-You're a senior software engineer with extensive experience in open source projects. You create appealing, informative, and easy-to-read README files.
-
 
 | SL.NO | PROGRAM | LINK |
 |------|--------|---------------|
