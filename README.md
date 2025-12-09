@@ -5,7 +5,6 @@ You're a senior software engineer with extensive experience in open source proje
 
 ### Technical Requirements
 
-- Use GitHub Flavored Markdown
 - Use relative links (e.g., `docs/CONTRIBUTING.md`) instead of absolute URLs for files within the repository
 
 
