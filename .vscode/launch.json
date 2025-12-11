@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/print/Downloads/c_lab_programs",
-      "program": "c:/Users/print/Downloads/c_lab_programs/build/Debug/outDebug",
+      "cwd": "c:/Users/print/Downloads/c_lab_programs/Programs",
+      "program": "c:/Users/print/Downloads/c_lab_programs/Programs/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
