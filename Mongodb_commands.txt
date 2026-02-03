@@ -1,0 +1,62 @@
+To create a DB 
+use myDB; 
+
+To confirm the existence of DB 
+db; 
+
+To get a list of all DBs
+ show dbs;
+
+To Drop a DB
+ db.dropDatabase(); 
+
+To switch to a new DB 
+	use myDB1; 
+
+ 
+To display the list of collection 
+ show collections 
+
+
+ TO display statistics
+ db.stats();
+
+-------------------------------------------------
+To create a collection by the name “Person”.  
+
+db.createCollection(“Person”);
+
+db.student.insert({_id:1, StudName: "Anju", Grade: "VII", Hobbies: "Reading"})
+
+show collections 
+
+db.students.find(); 
+
+db.students.find().pretty();
+
+..........................................................
+db.Students.update({_id:3, StudName:"Aryan David", Grade: "VII"},
+{$set:{Hobbies: "Skating"}},{upsert:false}); 
+
+nothoing will happen if no recond is there
+
+db.Students.update({_id:3, StudName:"Aryan David", Grade: "VII"},{$set:{Hobbies: “Chess"}},{upsert:true}); 
+------------------------------------------------------------------------------
+db.student.find(); 
+
+db.student.find({_id:3}); 
+
+db.student.find({Grade: “VII”}); 
+
+db.student.find({StudName:"Ammu"})
+------------------------------------------------------------
+db.student.find({},{StudName:1,Grade:1}); 
+
+db.student.find({},{StudName:1,Grade:1,_id:0}); 
+
+db.student.find({Grade:"VII"}).pretty().limit(2);
+------------------------------------------------------
+db.employee.updateMany({}, {$set: {salary: 50000}})
+
+
+

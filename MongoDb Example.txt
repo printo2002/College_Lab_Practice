@@ -1,0 +1,160 @@
+ MongoDB Queries  
+1. Create a collection and insert documents into it 
+using insertOne() and insertMany()  
+2. Select all documents in collection  
+3. Find the count of all suppliers  
+4. Find all records that have city = ‘Delhi’  
+5. Retrieve all documents that have color equal to 
+‘red’ or ‘green’  
+6. Retrieve all documents where part_name is ‘P1’ 
+or price is less than 200.   
+7. Update the record of ‘Geeta’ ,set city = 
+‘Bombay’ and phoneno = ‘11223344’  
+8. Delete all records where price is greater than 
+5000  
+9. Display only the name and city of the supplier  
+10. Sort all suppliers on city and display only the 
+first two records.
+
+## **Initial Database and Collection Setup**
+
+```js
+// 1. Switch to (or create) a database
+use SupplierDB;
+
+// 2. Create a collection named "suppliers" and insert documents
+
+// Insert one document
+db.suppliers.insertOne({
+    name: "Geeta",
+    city: "Delhi",
+    phoneno: "99887766",
+    part_name: "P1",
+    color: "red",
+    price: 1500
+});
+
+// Insert many documents
+db.suppliers.insertMany([
+    {
+        name: "Ravi",
+        city: "Mumbai",
+        phoneno: "88776655",
+        part_name: "P2",
+        color: "green",
+        price: 800
+    },
+    {
+        name: "Anita",
+        city: "Delhi",
+        phoneno: "77665544",
+        part_name: "P3",
+        color: "blue",
+        price: 6000
+    },
+    {
+        name: "Suresh",
+        city: "Chennai",
+        phoneno: "66554433",
+        part_name: "P1",
+        color: "red",
+        price: 100
+    },
+    {
+        name: "Meera",
+        city: "Bangalore",
+        phoneno: "55443322",
+        part_name: "P4",
+        color: "green",
+        price: 450
+    }
+]);
+```
+
+---
+
+## **Queries**
+
+### 1. Select all documents in collection
+
+```js
+db.suppliers.find({});
+```
+
+---
+
+### 2. Find the count of all suppliers
+
+```js
+db.suppliers.countDocuments();
+```
+
+---
+
+### 3. Find all records that have `city = 'Delhi'`
+
+```js
+db.suppliers.find({ city: "Delhi" });
+```
+
+---
+
+### 4. Retrieve all documents that have `color = 'red'` or `color = 'green'`
+
+```js
+db.suppliers.find({ color: { $in: ["red", "green"] } });
+```
+
+---
+
+### 5. Retrieve all documents where `part_name = 'P1'` OR `price < 200`
+
+```js
+db.suppliers.find({
+    $or: [
+        { part_name: "P1" },
+        { price: { $lt: 200 } }
+    ]
+});
+```
+
+---
+
+### 6. Update the record of `Geeta`, set `city = 'Bombay'` and `phoneno = '11223344'`
+
+```js
+db.suppliers.updateOne(
+    { name: "Geeta" },
+    { $set: { city: "Bombay", phoneno: "11223344" } }
+);
+```
+
+---
+
+### 7. Delete all records where `price > 5000`
+
+```js
+db.suppliers.deleteMany({ price: { $gt: 5000 } });
+```
+
+---
+
+### 8. Display only the `name` and `city` of the supplier
+
+```js
+db.suppliers.find({}, { _id: 0, name: 1, city: 1 });
+```
+
+---
+
+### 9. Sort all suppliers on `city` and display only the first two records
+
+```js
+db.suppliers.find({})
+    .sort({ city: 1 })
+    .limit(2);
+```
+
+---
+
+ 
