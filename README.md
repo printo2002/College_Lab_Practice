@@ -1,12 +1,9 @@
-##  INDEX 
+# 📚 Study Materials Index
 
-
-<a href="PRINTOC.pdf">  ` C ` </a>
-
-<a href="PRINTOC.pdf">  ` DataBase - Mysql,MongoDb ` </a>
-
-<a href="PRINTOC.pdf">  ` Java ` </a>
-
-<a href="PRINTOC.pdf">  ` PHP ` </a>
-
-<a href="PRINTOC.pdf">  ` Data Structure ` </a>
+| Subject | Link |
+|----------|------|
+| 💻 C Programming | [Open](PRINTOC.pdf) |
+| 🗄️ Database (MySQL & MongoDB) | [Open](PRINTOC.pdf) |
+| ☕ Java | [Open](PRINTOC.pdf) |
+| 🌐 PHP | [Open](PRINTOC.pdf) |
+| 📊 Data Structures | [Open](PRINTOC.pdf) |
