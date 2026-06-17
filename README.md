@@ -2,7 +2,7 @@
 
 | Subject | Link |
 |----------|------|
-| 💻 C Programming | [Open](PRINTOC.pdf) |
+| 💻 C Programming | [Open](C-Language-Lab/README.md) |
 | 🗄️ Database (MySQL & MongoDB) | [Open](PRINTOC.pdf) |
 | ☕ Java | [Open](PRINTOC.pdf) |
 | 🌐 PHP | [Open](PRINTOC.pdf) |
