@@ -2,8 +2,7 @@
 
 
 
-| SL.NO | PROGRAM | LINK |
-|------|--------|---------------|
+
 | 00   |  `Documentation`      |<a href="PRINTOC.pdf">link</a>|
 | 01   |  Program to find the absolute value of a number using the conditional operator. |<a href="Programs/PRGM1.C">link</a>|
 | 02   |  Program to check whether the given number is odd or even.  |<a href="Programs/PRGM2.C">link</a>|
