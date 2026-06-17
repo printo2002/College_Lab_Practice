@@ -1,4 +1,4 @@
-# 📚 Study Materials Index
+# 📚 Lab Programs Index
 
 | Subject | Link |
 |----------|------|
