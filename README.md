@@ -1,9 +1,9 @@
-# 📚 Lab Programs Index
+# 📚 College Lab Practice
 
-| Subject | Link |
-|----------|------|
-| 💻 C Programming | [Open]([C-Language-Lab/README.md](https://github.com/printo2002/College_Lab_Practice/blob/C-Language-Lab/README.md)) |
-| 🗄️ Database (MySQL & MongoDB) | [Open](PRINTOC.pdf) |
-| ☕ Java | [Open](PRINTOC.pdf) |
-| 🌐 PHP | [Open](PRINTOC.pdf) |
-| 📊 Data Structures | [Open](PRINTOC.pdf) |
+| Subject | Branch |
+|----------|----------|
+| 💻 C Language Lab | [Open](https://github.com/printo2002/College_Lab_Practice/tree/C-Language-Lab) |
+| ☕ Java Lab | [Open](#) |
+| 🌐 PHP Lab | [Open](#) |
+| 🗄️ Database Lab | [Open](#) |
+| 📊 Data Structure Lab | [Open](#) |
