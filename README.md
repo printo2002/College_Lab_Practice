@@ -4,7 +4,7 @@
 
 | SL.NO | PROGRAM | LINK |
 |------|--------|---------------|
-| 00   |  `Documentation`      |<a href="Printo_JAVA.pdf">link</a>|
+| 00   |  `Documentation`      |<a href="Printo_DS.pdf">link</a>|
 | 01   |  Linear Search |<a href="prgms/LINEARSE.C">link</a>|
 | 02   |  Binary Search  |<a href="prgms/BINARYSE.C">link</a>|
 | 03   |  Polynomial Addition With 1-Dimensional Array |<a href="prgms/POLYNOMI.C">link</a>|
