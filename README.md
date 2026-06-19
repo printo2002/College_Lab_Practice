@@ -25,16 +25,7 @@
 | 18   |  Program to check whether a number is Armstrong or not.   |<a href="Programs/PRGM18.C">link</a>|
 | 19   |  Program to print prime numbers within a given range.  |<a href="Programs/PRGM19.C">link</a>|
 | 20   |  Program to find root of a quadratic equation.  |<a href="Programs/PRGM20.C">link</a>|
-| 21   |  Program to print multiplication table of a number using for loop.   |<a href="Programs/PRGM21.C">link</a>|
-| 22   |  Program to read marks of a student and find their grade according to the mark using else…if ladder.   |<a href="Programs/PRGM22.C">link</a>|
-| 23 | <p>An electric power distribution company charges its domestic consumers as follows:<br><br><strong>Consumption Units — Rate of Charge</strong><br>0–200 — Rs. 0.50 per unit<br>201–400 — Rs. 100 plus Rs. 0.65 per unit excess of 200<br>401–600 — Rs. 230 plus Rs. 0.80 per unit excess of 400<br>601 and above — Rs. 390 plus Rs. 1.00 per unit excess of 600<br><br>Read the customer number and power consumed and print the amount to be paid by the customer.</p> |<a href="Programs/PRGM23.C">link</a>|
-| 24   |  Program to find sum of series 1! +2! + 3!  …. N! Using functions.     |<a href="Programs/PRGM24.C">link</a>|
-| 25   |  Program to find factorial of a number using recursion. |<a href="Programs/PRGM25.C">link</a>|
-| 26   |  Program to display alphabet A to Z using loops. |<a href="Programs/PRGM26.C">link</a>|
-| 27   |  Program to print the pattern <br>* <br>* * <br> * * *<br> * * * *<br>|<a href="Programs/PRGM27.C">link</a>|
-| 28   |  Program to read an array of n numbers; find the largest among them and display using functions.  |<a href="Programs/PRGM28.C">link</a>|
-| 29   |  Program to find the sum of two matrices using function.  |<a href="Programs/PRGM29.C">link</a>|
-| 30   |  Program to find the transpose of a matrix using function. |<a href="Programs/PRGM30.C">link</a>|
+
 
 
 
