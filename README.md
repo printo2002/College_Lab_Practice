@@ -5,8 +5,8 @@
 | SL.NO | PROGRAM | LINK |
 |------|--------|---------------|
 | 00   |  `Documentation`      |<a href="Printo_JAVA.pdf">link</a>|
-| 01   |  Linear Search |<a href="Programs/PRGM1.C">link</a>|
-| 02   |  Binary Search  |<a href="Programs/PRGM2.C">link</a>|
+| 01   |  Linear Search |<a href="prgms/LINEARSE.C">link</a>|
+| 02   |  Binary Search  |<a href="prgms/BINARYSE.C">link</a>|
 | 03   |  Polynomial Addition With 1-Dimensional Array |<a href="Programs/PRGM3.C">link</a>|
 | 04   |  Infix Expression to Postfix Expression Using Stack  |<a href="Programs/PRGM4.C">link</a>|
 | 05   |  Evaluate Postfix Expression Using Stack  |<a href="Programs/PRGM5.C">link</a>|
