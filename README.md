@@ -1,6 +1,6 @@
 # 📚 College Lab Practice
 
-| Subject | Link |
+|sl.no| Subject | Link |
 |----------|----------|
 | 💻 C Language Lab | [Open](https://github.com/printo2002/College_Lab_Practice/tree/C-Language-Lab) |
 | ☕ Java Lab | [Open](https://github.com/printo2002/College_Lab_Practice/tree/Java) |
